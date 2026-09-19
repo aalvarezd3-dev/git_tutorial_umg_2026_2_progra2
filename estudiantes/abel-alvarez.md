@@ -1,4 +1,4 @@
 
-NOMBRE: Abel Osbeli Alvafez
+NOMBRE: Abel Osbeli Alvarez
 UBICACIÓN: Guatemala
 LENGUAJE FAVORITO: Java
